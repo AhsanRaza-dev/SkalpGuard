@@ -1,0 +1,3 @@
+@echo off
+echo Starting skalpGuard Laravel server...
+"C:\Users\UsEr\.config\herd\bin\php84\php.exe" artisan serve

@@ -1,0 +1,6 @@
+# Local Claude Code agent state
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
